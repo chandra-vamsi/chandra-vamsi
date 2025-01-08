@@ -19,13 +19,13 @@
 
 ### 📬 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/chandra-vamsi" target="blank">
+  <a href="https://linkedin.com/in/chandra-vamshi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandra-vamsi" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/chandravamsi12" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chandravamsi12" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/https://www.youtube.com/@code-quanta" target="blank">
+  <a href="https://www.youtube.com/@code-quanta" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@code-quanta" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/chandra_vamsi" target="blank">
